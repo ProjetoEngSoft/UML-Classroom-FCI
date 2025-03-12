@@ -23,6 +23,7 @@ Solutions SW - para criar um sistema que otimize a operação da farmácia.
 Ele espera um sistema simples e eficiente que facilite as operações
 diárias dos funcionários, garantindo maior precisão e rapidez no
 atendimento.
+
 2.2. Requisitos e Funcionalidades
 Após reuniões da equipe com o Sr. Boticário e os seus funcionários, as
 seguintes informações foram identificadas:
@@ -48,6 +49,8 @@ lote, data de validade e quantidade em estoque.
 - Atendentes podem realizar vendas e consultar estoque.
 - Administradores podem cadastrar produtos, gerar relatórios e visualizar
 histórico completo.
+
+
 2.3. Fluxo do Sistema
 Segundo os Arquitetos de Software da MACK Solutions SW, o processo típico
 dentro da farmácia possui as seguintes etapas:
