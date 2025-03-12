@@ -105,7 +105,8 @@ diariamente.
 - O sistema deve tolerar guardar uma grande quantidade de produtos;
 - O sistema deve acatar as regulações da LGPD;
 - O sistema deve tolerar guardar uma alta quantidade de colaboradores;
-- O sistema deve realizar as vendas, relatórios, controle de estoque e todas suas funções rapidamente.
+- O sistema deve realizar as vendas, relatórios, controle de estoque e todas suas funções rapidamente;
+- O sistema deve ser seguro  e privado.
 
 # Diagrama de Atividades
 
