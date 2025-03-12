@@ -70,5 +70,6 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 
 # Releases
-
+Release fase 1 - 12/03/2025 
 Deverá ser publicado um release ao término de cada entrega do projeto.
+
