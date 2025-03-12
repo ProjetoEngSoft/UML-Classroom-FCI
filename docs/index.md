@@ -91,13 +91,21 @@ cliente.
 diariamente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-##Requisitos Funcionais
+## Requisitos Funcionais
 - O sistema deve conseguir cadastrar os produtos, com os seguintes atributos: Nome, descrição, fabricante, lote, data de validade, quantia de estoque e preço de venda;
 - O sistema deve conseguir  cadastrar novos clientes com os seguintes atributos: Nome, CPF,  telefone e historico de compras;
 - O sitema deve conseguir realizar o processo de venda, consultando produtos disponíveis (Pré-condição: produto existente), o registro associado ao cliente (Pré-condição: um cliente existente), geração de cupom fiscal e atualização de estoque;
 - O sistema deve ter um controle de estoque, que atualizará automaticamente após cada venda (Pré-condição: Processo de venda realizado) e disparar um alerta quando items estiverem com estoque baixo;
 - O sistema deve realizar relatórios gerenciais, relatórios de vendas diaria, semanais e mensais (Pŕe-condição: Processo de venda realizada), relatorio de produtos mais vendidos e relatorio de clientes mais frequentes (Pŕe-condição: Cadastro de clientes);
 - O sitema deve realizar autenticação e controle de acesso, com perfis de usuario para atendes e administradores (Pré-condição: cadastro dos colaboradores), permissão para atendentes realizarem vendas e consulta de estoque (Pré-condição: Processo de venda e relatórios de estoque),administradores devem poder cadastrar produtos, gerar relatórios  e visualizar historico completo(Pré-condição: existência do historico);
+
+## Requisitos não-funcionais
+- O sistema deve conseguir realizar vendas simultaneas;
+- O sistema deve tolerar guardar uma alta quantidade de clientes e seus dados;
+- O sistema deve tolerar guardar uma grande quantidade de produtos;
+- O sistema deve acatar as regulações da LGPD;
+- O sistema deve tolerar guardar uma alta quantidade de colaboradores;
+- O sistema deve realizar as vendas, relatórios, controle de estoque e todas suas funções rapidamente.
 
 # Diagrama de Atividades
 
