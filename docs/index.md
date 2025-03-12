@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Farmacia&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -27,8 +27,8 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
+* Clovis Julião Arroyo Neto - 10395595
+* Domingos Melo - 10402402
 * Aluno 3
 * Aluno 4
 * Aluno 5
