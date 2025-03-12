@@ -26,6 +26,7 @@ A seguir, os passos para a preparação do projeto:
 # Descrição
 
 Contextualização
+
 A Farmácia Vida Saudável é um estabelecimento de pequeno porte localizado
 na cidade de Santos-SP. Nos últimos meses, houve o crescimento da
 clientela e à necessidade de maior controle sobre seus processos
