@@ -92,12 +92,16 @@ diariamente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Requisitos Funcionais
-- O sistema deve conseguir cadastrar os produtos, com os seguintes atributos: Nome, descrição, fabricante, lote, data de validade, quantia de estoque e preço de venda;
-- O sistema deve conseguir  cadastrar novos clientes com os seguintes atributos: Nome, CPF,  telefone e historico de compras;
-- O sitema deve conseguir realizar o processo de venda, consultando produtos disponíveis (Pré-condição: produto existente), o registro associado ao cliente (Pré-condição: um cliente existente), geração de cupom fiscal e atualização de estoque;
-- O sistema deve ter um controle de estoque, que atualizará automaticamente após cada venda (Pré-condição: Processo de venda realizado) e disparar um alerta quando items estiverem com estoque baixo;
-- O sistema deve realizar relatórios gerenciais, relatórios de vendas diaria, semanais e mensais (Pŕe-condição: Processo de venda realizada), relatorio de produtos mais vendidos e relatorio de clientes mais frequentes (Pŕe-condição: Cadastro de clientes);
-- O sitema deve realizar autenticação e controle de acesso, com perfis de usuario para atendes e administradores (Pré-condição: cadastro dos colaboradores), permissão para atendentes realizarem vendas e consulta de estoque (Pré-condição: Processo de venda e relatórios de estoque),administradores devem poder cadastrar produtos, gerar relatórios  e visualizar historico completo(Pré-condição: existência do historico);
+- RF-01(CADASTR0): O sistema deve conseguir cadastrar os produtos, com os seguintes atributos: Nome, descrição, fabricante, lote, data de validade, quantia de estoque e preço de venda;
+- RF-02(CADASTRO): O sistema deve conseguir  cadastrar novos clientes com os seguintes atributos: Nome, CPF,  telefone e historico de compras;
+- RF-03(VENDA): O sitema deve conseguir realizar o processo de venda, consultando produtos disponíveis (Pré-condição: produto existente), o registro associado ao cliente (Pré-condição: um cliente existente), geração de cupom fiscal e atualização de estoque;
+- RF-04(VENDA): O sistema deve automaticamente calcular total e aplicar descontos promocionais, caso necessário;
+- RF-05(CONSULTA): O sistema deve permitir consulta ao histórico de compras de clientes cadastrados;
+- RF-06(ESTOQUE): O sistema deve ter um controle de estoque, que atualizará automaticamente após cada venda (Pré-condição: Processo de venda realizado) e disparar um alerta quando items estiverem com estoque baixo,  ou próximo da validade;
+- RF-07(RELATÓRIO)O sistema deve realizar relatórios gerenciais, relatórios de vendas diaria, semanais e mensais (Pŕe-condição: Processo de venda realizada), relatorio de produtos mais vendidos e relatorio de clientes mais frequentes (Pŕe-condição: Cadastro de clientes);
+- RF-08(SEGURANÇA): O sitema deve realizar autenticação e controle de acesso, com perfis de usuario para atendes e administradores (Pré-condição: cadastro dos colaboradores), permissão para atendentes realizarem vendas e consulta de estoque (Pré-condição: Processo de venda e relatórios de estoque),administradores devem poder cadastrar produtos, gerar relatórios  e visualizar historico completo(Pré-condição: existência do historico);
+-  RF-09(CONSULTA): O sistema deve permitir busca no estoque por nome ou código de barras;
+-  RF-10(PAGAMENTO): O sistema deve integrar-se com o sistema de pagaeento para processar cartões de crédito ou débito;
 
 ## Requisitos não-funcionais
 - O sistema deve conseguir realizar vendas simultaneas;
