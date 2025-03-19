@@ -104,13 +104,18 @@ diariamente.
 -  RF-10 (PAGAMENTO): O sistema deve integrar-se com o sistema de pagaeento para processar cartões de crédito ou débito;
 
 ## Requisitos não-funcionais
-- O sistema deve conseguir realizar vendas simultaneas;
-- O sistema deve tolerar guardar uma alta quantidade de clientes e seus dados;
-- O sistema deve tolerar guardar uma grande quantidade de produtos;
-- O sistema deve acatar as regulações da LGPD;
-- O sistema deve tolerar guardar uma alta quantidade de colaboradores;
-- O sistema deve realizar as vendas, relatórios, controle de estoque e todas suas funções rapidamente;
-- O sistema deve ser seguro  e privado.
+- RNF-01 (DISPONIBILIDADE): O sistema deve estar disponivel 99,99% do tempo;
+- RNF-02 (DESEMPENHO):O sistema deve realizar as vendas, relatórios, controle de estoque e todas suas funções rapidamente;
+- RNF-03 (ACESSIBILIDADE): O sistema deve ser acessivel via navegar, website ou aplicativo;
+- RNF-04 (SEGURANÇA E CONFORMIDADE):O sistema deve acatar as regulações da LGPD e os dados de transaçãoo devem ser guardados de forma segura;
+- RNF-05 (SEGURANÇA): O banco de dados deve ser criptografado e protegido;
+- RNF-06 (ESCALABILIDADE): O sistema deve tolerar guardar uma alta quantidade de clientes e seus dados;
+- RNF-07 (BAKCUP): O sistema deve realizar backups automaticos diarios;
+- RNF-08 (ESCALABILIDADE): O sistema deve conseguir realizar vendas simultaneas;
+- RNF-09 (USABILIDADE): A interface deve ser clara,  intuitiva e responsiva, adapatando-se para diversos dispositivos;
+- RNF-10 (AUDITORIA E LOGS): O sistema deve permitir auditoria de todas transações realizadas, com logs guardados por no mínimo 5 anos e protegidos contra qualquer tipo de alteração ou exclusão;
+- RNF-11 (ESCALABILIDADE): O sistema deve tolerar guardar uma grande quantidade de produtos;
+- RNF-12 (ESCALABILIDADE): O sistema deve tolerar guardar uma alta quantidade de colaboradores;
 
 # Diagrama de Atividades
 
