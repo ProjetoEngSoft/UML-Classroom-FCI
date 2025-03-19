@@ -110,7 +110,7 @@ diariamente.
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![image](https://github.com/user-attachments/assets/f002c093-fc13-4561-977c-39e310bebb69)
 
 # Diagrama de Casos de Uso
 
