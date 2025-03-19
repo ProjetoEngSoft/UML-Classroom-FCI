@@ -92,7 +92,7 @@ diariamente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Requisitos Funcionais
-- RF-01 (CADASTR0): O sistema deve conseguir cadastrar os produtos, com os seguintes atributos: Nome, descrição, fabricante, lote, data de validade, quantia de estoque e preço de venda;
+- RF-01 (CADASTRO): O sistema deve conseguir cadastrar os produtos, com os seguintes atributos: Nome, descrição, fabricante, lote, data de validade, quantia de estoque e preço de venda;
 - RF-02 (CADASTRO): O sistema deve conseguir  cadastrar novos clientes com os seguintes atributos: Nome, CPF,  telefone e historico de compras;
 - RF-03 (VENDA): O sitema deve conseguir realizar o processo de venda, consultando produtos disponíveis (Pré-condição: produto existente), o registro associado ao cliente (Pré-condição: um cliente existente), geração de cupom fiscal e atualização de estoque;
 - RF-04 (VENDA): O sistema deve automaticamente calcular total e aplicar descontos promocionais, caso necessário;
