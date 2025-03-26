@@ -119,7 +119,7 @@ diariamente.
 
 # Diagrama de Atividades
 
-![image](https://github.com/user-attachments/assets/f002c093-fc13-4561-977c-39e310bebb69)
+![image](https://github.com/user-attachments/assets/837f7915-0906-4faf-b865-e29b0d9116c1)
 
 # Diagrama de Casos de Uso
 
