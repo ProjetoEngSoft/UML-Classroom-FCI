@@ -123,7 +123,8 @@ diariamente.
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/user-attachments/assets/3637cec9-aab5-4193-9824-9ed2131920e5)
+
 
 # Descrição dos Casos de Uso
 
