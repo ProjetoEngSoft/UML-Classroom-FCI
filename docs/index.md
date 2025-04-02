@@ -136,12 +136,7 @@ diariamente.
 ![image](https://github.com/user-attachments/assets/500c11d1-0ff7-482c-af85-59f0e44f47a5)
 ![image](https://github.com/user-attachments/assets/5ad93424-792a-4479-ba07-113ca9486795)
 ![image](https://github.com/user-attachments/assets/94216a2f-d8c2-4fa5-93a9-1247ea8472cb)
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/b0d28f7a-268d-4114-ac58-b8a491ad3c01)
 
 
 # Diagrama de Sequência
