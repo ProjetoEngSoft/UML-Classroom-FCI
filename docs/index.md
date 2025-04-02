@@ -128,6 +128,7 @@ diariamente.
 
 # Descrição dos Casos de Uso
 
+![image](https://github.com/user-attachments/assets/db469ab2-83f2-4545-9366-644535b83363)
 ![image](https://github.com/user-attachments/assets/f37c8dea-d45b-4c13-a032-64cbb20a1d45)
 
 
