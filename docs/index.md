@@ -138,6 +138,8 @@ diariamente.
 ![image](https://github.com/user-attachments/assets/94216a2f-d8c2-4fa5-93a9-1247ea8472cb)
 ![image](https://github.com/user-attachments/assets/b0d28f7a-268d-4114-ac58-b8a491ad3c01)
 ![image](https://github.com/user-attachments/assets/918844a5-567b-42df-aa02-60750d335d85)
+![image](https://github.com/user-attachments/assets/8c404d70-fa31-4ccb-a1f9-7540aff48d73)
+
 
 
 
