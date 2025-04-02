@@ -128,7 +128,8 @@ diariamente.
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/user-attachments/assets/5a7d3a21-00c9-4ab5-8240-d8765d8d6117)
+
 
 # Diagrama de Sequência
 
