@@ -128,7 +128,7 @@ diariamente.
 
 # Descrição dos Casos de Uso
 
-![image](https://github.com/user-attachments/assets/5a7d3a21-00c9-4ab5-8240-d8765d8d6117)
+![image](https://github.com/user-attachments/assets/f37c8dea-d45b-4c13-a032-64cbb20a1d45)
 
 
 # Diagrama de Sequência
