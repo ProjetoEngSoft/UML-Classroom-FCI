@@ -142,8 +142,8 @@ diariamente.
 ![image](https://github.com/user-attachments/assets/5ce26c57-8d18-489d-a979-127acaaabe32)
 
 # Diagrama de Sequência
+![image](https://github.com/user-attachments/assets/cb8c400d-78e1-45e3-86a5-7a367d1cd2af)
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de Classes
 
