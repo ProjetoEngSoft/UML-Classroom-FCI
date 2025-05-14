@@ -147,7 +147,8 @@ diariamente.
 
 # Diagrama de Classes
 
-![image](https://github.com/user-attachments/assets/87a789c9-3d1b-4dff-838f-865fe2458df9)
+
+![image](https://github.com/user-attachments/assets/fe6dfa27-da60-4a23-81c2-52b7779c8226)
 
 
 # Diagrama de Estados
