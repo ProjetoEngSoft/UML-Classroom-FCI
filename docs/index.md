@@ -147,7 +147,8 @@ diariamente.
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/user-attachments/assets/87a789c9-3d1b-4dff-838f-865fe2458df9)
+
 
 # Diagrama de Estados
 
