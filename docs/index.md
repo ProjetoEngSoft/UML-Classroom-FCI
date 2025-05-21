@@ -153,7 +153,7 @@ diariamente.
 
 # Diagrama de Estados
 
-![image](https://github.com/user-attachments/assets/46157043-d16f-428c-9a03-6363e4221307)
+![image](https://github.com/user-attachments/assets/1ae35298-7b87-4178-bb11-d6fea11b0228)
 
 # Diagrama de Implantação
 
