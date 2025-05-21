@@ -153,7 +153,7 @@ diariamente.
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/user-attachments/assets/46157043-d16f-428c-9a03-6363e4221307)
 
 # Diagrama de Implantação
 
