@@ -157,7 +157,8 @@ diariamente.
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/user-attachments/assets/b57f438b-35cf-447b-8143-8b385d40873d)
+
 
 # Referências
 
